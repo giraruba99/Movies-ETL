@@ -1,4 +1,5 @@
 # ignore files
+config.py
 Movielens_extract.ipynb
 movies_metadata.csv
 ratings.csv
